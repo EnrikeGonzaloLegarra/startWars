@@ -2,7 +2,7 @@
   <div class="hello">
     <br><br><br>
     <h1>{{ msg }}</h1>
-    <img src="https://media.giphy.com/media/jd6TVgsph6w7e/giphy.gif" alt="">
+    <img src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" alt="">
   </div>
 </template>
 
@@ -36,4 +36,8 @@ li {
 a {
   color: #42b983;
 }
+  img{
+    width: 600px;
+    height: 400px;
+  }
 </style>
